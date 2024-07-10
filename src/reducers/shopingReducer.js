@@ -1,4 +1,3 @@
-import { act } from "react";
 import { TYPES } from "../actions/shopingActions";
 export const shopingInitialState = {
     products: [
